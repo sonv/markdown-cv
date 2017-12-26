@@ -6,7 +6,7 @@ title: Truong-Son Van's CV
 PhD Student at Carnegie Mellon University.
 
 <div id="webaddress">
-Email: <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+Email: <a href="sonv@andrew.cmu.edu">sonv@andrew.cmu.edu</a>
 </div>
 
 
